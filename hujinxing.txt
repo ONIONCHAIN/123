@@ -1,2 +1,2 @@
 hujinxing
-
+has already studied how to use git
